@@ -1,0 +1,11 @@
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\bin\Debug\net7.0\Italian.Core.deps.json
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\bin\Debug\net7.0\Italian.Core.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\bin\Debug\net7.0\Italian.Core.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\Italian.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\Italian.Core.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\Italian.Core.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\Italian.Core.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\Italian.Core.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\refint\Italian.Core.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\Italian.Core.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\ref\Italian.Core.dll

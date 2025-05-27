@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4AEC0D-AF38-4636-8ADC-A6609B62D7F4}|Italian.Data\\Italian.Data.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italian.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4AEC0D-AF38-4636-8ADC-A6609B62D7F4}|Italian.Data\\Italian.Data.csproj|solutionrelative:italian.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315B78B4-D695-45D3-AF48-914CA3E52E29}|Italian.Service\\Italian.Service.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italian.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315B78B4-D695-45D3-AF48-914CA3E52E29}|Italian.Service\\Italian.Service.csproj|solutionrelative:italian.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC5514E-10DC-4879-B315-B1EBD97D8748}|ItalianRestaurant\\Italian.API.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italianrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC5514E-10DC-4879-B315-B1EBD97D8748}|ItalianRestaurant\\Italian.API.csproj|solutionrelative:italianrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/DbUsers/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4AEC0D-AF38-4636-8ADC-A6609B62D7F4}|Italian.Data\\Italian.Data.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italian.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4AEC0D-AF38-4636-8ADC-A6609B62D7F4}|Italian.Data\\Italian.Data.csproj|solutionrelative:italian.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C96A100-E578-4A7F-B81B-54EBC2626DE0}|Italian.Core\\Italian.Core.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italian.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C96A100-E578-4A7F-B81B-54EBC2626DE0}|Italian.Core\\Italian.Core.csproj|solutionrelative:italian.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C96A100-E578-4A7F-B81B-54EBC2626DE0}|Italian.Core\\Italian.Core.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italian.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C96A100-E578-4A7F-B81B-54EBC2626DE0}|Italian.Core\\Italian.Core.csproj|solutionrelative:italian.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4AEC0D-AF38-4636-8ADC-A6609B62D7F4}|Italian.Data\\Italian.Data.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italian.data\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4AEC0D-AF38-4636-8ADC-A6609B62D7F4}|Italian.Data\\Italian.Data.csproj|solutionrelative:italian.data\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C96A100-E578-4A7F-B81B-54EBC2626DE0}|Italian.Core\\Italian.Core.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italian.core\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C96A100-E578-4A7F-B81B-54EBC2626DE0}|Italian.Core\\Italian.Core.csproj|solutionrelative:italian.core\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C96A100-E578-4A7F-B81B-54EBC2626DE0}|Italian.Core\\Italian.Core.csproj|c:\\users\\win 10\\desktop\\program\\college\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\italianrestaurant\\italian.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C96A100-E578-4A7F-B81B-54EBC2626DE0}|Italian.Core\\Italian.Core.csproj|solutionrelative:italian.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/DbUsers/True/SqlTable/dbo.users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/DbUsers/True/SqlTable/dbo.users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-26T15:16:28.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Italian.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Service\\UserService.cs",
+              "RelativeToolTip": "Italian.Service\\UserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:57:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Italian.Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Italian.Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:55:34.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\ItalianRestaurant\\Program.cs",
+              "RelativeDocumentMoniker": "ItalianRestaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\ItalianRestaurant\\Program.cs",
+              "RelativeToolTip": "ItalianRestaurant\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:21:07.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Core\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Italian.Core\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Core\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Italian.Core\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:10:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Italian.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Italian.Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:00:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Data\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Italian.Data\\Repositories\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Data\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "Italian.Data\\Repositories\\RepositoryManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:35:42.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Italian.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Italian.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:20:01.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Core\\Repositories\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Italian.Core\\Repositories\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Core\\Repositories\\IRepositoryManager.cs",
+              "RelativeToolTip": "Italian.Core\\Repositories\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:49:18.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Italian.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\program\\college\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ItalianRestaurant\\Italian.Core\\Models\\User.cs",
+              "RelativeToolTip": "Italian.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:55:35.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

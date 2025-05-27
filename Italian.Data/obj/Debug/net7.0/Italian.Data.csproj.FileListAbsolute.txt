@@ -1,0 +1,17 @@
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\bin\Debug\net7.0\Italian.Data.deps.json
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\bin\Debug\net7.0\Italian.Data.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\bin\Debug\net7.0\Italian.Data.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\bin\Debug\net7.0\Italian.Core.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\bin\Debug\net7.0\Italian.Core.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\refint\Italian.Data.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\ref\Italian.Data.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\bin\Debug\net7.0\Italian.Data.runtimeconfig.json
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian..FC368E08.Up2Date

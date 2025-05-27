@@ -1,0 +1,17 @@
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\Italian.Service.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\Italian.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\Italian.Service.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\Italian.Service.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\Italian.Service.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\bin\Debug\net7.0\Italian.Service.deps.json
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\bin\Debug\net7.0\Italian.Service.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\bin\Debug\net7.0\Italian.Service.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\bin\Debug\net7.0\Italian.Core.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\bin\Debug\net7.0\Italian.Data.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\bin\Debug\net7.0\Italian.Core.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\bin\Debug\net7.0\Italian.Data.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\Italian.Service.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\refint\Italian.Service.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\Italian.Service.pdb
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\ref\Italian.Service.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Service\obj\Debug\net7.0\Italian..2822021D.Up2Date
