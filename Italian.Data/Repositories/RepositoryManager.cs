@@ -21,9 +21,9 @@ namespace Italian.Data.Repositories
             Users = userRepository;
         }
 
-        public void Save()
+        public async void Save()
         {
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
         }
     }
 }

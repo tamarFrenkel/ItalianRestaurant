@@ -9,3 +9,4 @@ C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\It
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\refint\Italian.Core.dll
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\Italian.Core.pdb
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\ref\Italian.Core.dll
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Core\obj\Debug\net7.0\Italian.Core.sourcelink.json

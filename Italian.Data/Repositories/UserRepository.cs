@@ -1,6 +1,7 @@
 ﻿using Italian.Core.Models;
 using Italyano.Core.Repositories;
 using Italyano.Data;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,16 +10,26 @@ using System.Threading.Tasks;
 
 namespace Italian.Data.Repositories
 {
-    public class UserRepository : IUserRepository
+    public class UserRepository : Repository<User>, IUserRepository
     {
-        private readonly DataContext _context;
-
-        public UserRepository(DataContext context)
+        public UserRepository(DataContext context): base(context) 
         {
-            _context = context;
         }
 
-        /*
+        public User GetByUserNamePassword(string userName, string password)
+        {
+            return this._dbSet.Where(u => u.FirstName == userName && u.Password == password).FirstOrDefault();
+        }
+
+        public IEnumerable<User> GetList()
+        {
+            return _context.User.Include(u => u.Plan);
+        }
+     }
+}
+
+
+/*
         public List<User> GetUsers()
         {
             return _context.users.ToList();
@@ -56,5 +67,3 @@ namespace Italian.Data.Repositories
         }
         // add , update, delete - user
         */
-    }
-}

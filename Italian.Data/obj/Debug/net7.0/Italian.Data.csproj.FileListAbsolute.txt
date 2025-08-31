@@ -15,3 +15,4 @@ C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\It
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\bin\Debug\net7.0\Italian.Data.runtimeconfig.json
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.genruntimeconfig.cache
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian..FC368E08.Up2Date
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\Italian.Data\obj\Debug\net7.0\Italian.Data.sourcelink.json

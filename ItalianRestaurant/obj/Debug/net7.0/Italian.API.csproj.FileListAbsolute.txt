@@ -79,3 +79,5 @@ C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\It
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\ItalianRestaurant\obj\Debug\net7.0\staticwebassets.build.endpoints.json
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\ItalianRestaurant\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
 C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\ItalianRestaurant\obj\Debug\net7.0\Italian..8395E074.Up2Date
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\ItalianRestaurant\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\WIN 10\Desktop\program\college\C#\פרויקטים\ItalianRestaurant\ItalianRestaurant\obj\Debug\net7.0\Italian.API.sourcelink.json

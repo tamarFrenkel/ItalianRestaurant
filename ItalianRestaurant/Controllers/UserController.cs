@@ -1,4 +1,7 @@
-﻿using Italian.Core.Models;
+﻿using AutoMapper;
+using Italian.API.Models;
+using Italian.Core.DTOs;
+using Italian.Core.Models;
 using Italian.Core.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,15 +14,18 @@ namespace Italyano.API.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
+        private readonly IMapper _mapper;
 
-        public UserController(IUserService userService)
+
+        public UserController(IUserService userService, IMapper mapper)
         {
             _userService = userService;
+            _mapper = mapper;
         }
 
         // GET: api/<UserController>
         [HttpGet]
-        public List<User> Get()
+        public async Task<List<Uzer>> Get()
         {
             return _userService.GetAll();
         }
@@ -28,13 +34,21 @@ namespace Italyano.API.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            var user = _userService.GetById(id);
+            var userDto = _mapper.Map<List<UserDto>>(list);
+            return userDto;
         }
 
         // POST api/<UserController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task<ActionResult> Post([FromBody] UserPostModel user)
         {
+            var result = Task.Run(() => _manager.Calculate(1, 2));
+            var add = _userService.Add(value);
+
+            await Task.WhenAll(result, add);
+
+            return Ok(add);
         }
 
         // PUT api/<UserController>/5
